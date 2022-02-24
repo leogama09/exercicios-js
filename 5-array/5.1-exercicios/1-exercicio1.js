@@ -8,6 +8,6 @@ function cumprimentar(nome) {
     console.log(`Olá, ${nome}!`)
 }
 
-console.log(cumprimentar("Leonardo"))
+console.log(cumprimentar("Leonardo")) // retornará "Olá, Leonardo!"
 
     

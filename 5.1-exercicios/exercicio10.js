@@ -8,5 +8,4 @@ function simboloMais(quantidade) {
 }
 
 console.log(simboloMais(2)) // retornará "++"
-console.log(simboloMais(4)) // retornará "++++"
-    
+console.log(simboloMais(4)) // retornará "++++"   
